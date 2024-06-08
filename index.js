@@ -55,4 +55,4 @@ function dom(domen){
 comUrl = dom('com')
 ruUrl = dom('ru')
 
-console.log(ruUrl('npu'))
+console.log(ruUrl('npuvdm'))
